@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+a person who never failed just never tried
 Use the left arrow to go back!
